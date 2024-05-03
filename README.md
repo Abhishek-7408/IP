@@ -4,7 +4,7 @@ https://aggressive-mite-cowboy-hat.cyclic.app/
 ```
 # Expense-Tracker-MERN
 
-Hi! I'm Prajwal, a MERN Stack Developer. An expense tracker app is a tool that helps individuals and businesses track their expenses. The app typically allows users to enter and categorize expenses, set budgets, and view reports on their spending habits.  The goal of an expense tracker app is to help users better understand and manage their spending, ultimately leading to greater financial control and savings.
+Hi! I'm Abhishek, a MERN Stack Developer. An expense tracker app is a tool that helps individuals and businesses track their expenses. The app typically allows users to enter and categorize expenses, set budgets, and view reports on their spending habits.  The goal of an expense tracker app is to help users better understand and manage their spending, ultimately leading to greater financial control and savings.
 
 ## Installation
 
@@ -50,6 +50,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/) ispired from sheymoney-udemy
+
 
